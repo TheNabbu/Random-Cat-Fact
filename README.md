@@ -26,7 +26,7 @@ If you want to explore or contribute to this project, here's how you can set it 
 1. Clone this GitHub repository:
 
    ```shell
-   git clone https://github.com/TheNabbu/random-cat-fact.git
+   git clone https://github.com/TheNabbu/Random-Cat-Fact.git
    ```
 
 2. Open the `index.html` file in your preferred code editor.
