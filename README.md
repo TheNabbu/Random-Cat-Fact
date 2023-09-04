@@ -2,7 +2,7 @@
 
 Welcome to the **Random Cat Fact** project! This simple web application fetches interesting cat facts from the [Cat Fact API](https://catfact.ninja/fact) and displays them on a stylish webpage. If you're a cat lover or just looking to learn something new about our feline friends, you've come to the right place.
 
-![Random Cat Fact](https://i.imgur.com/z48ieyK.png)
+![Random Cat Fact](https://i.imgur.com/HywihKg.png)
 
 ## Features
 
